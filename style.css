@@ -1,0 +1,29 @@
+.body_background
+{
+    background-image:url(backg.jpg);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+
+h3,h4
+{
+	width: 1000px;
+	background-color: white;
+	display: inline-block;
+}
+#output{
+    font-size: 30px;
+    background-color: rgb(212, 255, 208);
+	width: 600px;
+}
+#scores{
+    font-size: 30px;
+    background-color: rgb(212, 255, 208);
+	width: 500px;
+}
